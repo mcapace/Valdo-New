@@ -20,7 +20,7 @@ const lifestyleImages = [
   },
   {
     // RIGHT CIRCLE - LA FESTA
-    image: "/images/lifestyle/DSCF1017 2.jpg", // The celebration image
+    image: "/images/lifestyle/DSCF1017.jpg", // The celebration image
     title: "LA FESTA",
     location: "Milan",
     description: "Every moment is a celebration"
