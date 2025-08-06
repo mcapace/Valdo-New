@@ -53,7 +53,7 @@ const HeroSection = () => {
                   alt="Valdo Logo"
                   width={1000}
                   height={500}
-                  className="w-auto h-48 lg:h-64 mx-auto lg:mx-0"
+                  className="w-auto h-64 lg:h-80 mx-auto lg:mx-0"
                 />
               </motion.div>
               <motion.p 
@@ -62,7 +62,13 @@ const HeroSection = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1.2 }}
               >
-                The Gold Standard of Prosecco
+                The Gold Standard
+                </div>
+                <div class="text-4xl lg:text-5xl font-light mb-2">
+                  of
+                </div>
+                <div class="text-5xl lg:text-6xl font-light">
+                  Prosecco
               </motion.p>
             </motion.div>
 
