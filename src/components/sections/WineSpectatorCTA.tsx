@@ -49,7 +49,7 @@ const WineSpectatorCTA: React.FC = () => {
               <div className="flex items-center justify-center space-x-4">
                 <div className="w-16 h-px bg-gray-400"></div>
                 <Image
-                  src="/images/Logos/WS Red .png"
+                  src="/images/Logos/WS Red  2.png"
                   alt="Wine Spectator"
                   width={150}
                   height={50}
