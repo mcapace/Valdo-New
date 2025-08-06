@@ -23,7 +23,7 @@ const valdoDifferenceData = [
   {
     title: "VALUES",
     description: "Tradition meets innovation",
-    image: "/images/Grapes/Copia di GLERA.jpg",
+    image: "/images/Grapes/Copia di GLERA 2.jpg",
     caption: "Premium Glera grapes, where centuries of tradition meet modern innovation",
     alt: "Close-up of Glera grapes in Valdobbiadene vineyards",
     link: "https://us.valdo.com/collections/all"
@@ -31,7 +31,7 @@ const valdoDifferenceData = [
   {
     title: "PIONEER IN CUVÉE",
     description: "First to introduce Traditional Method with Glera",
-    image: "/images/Grapes/Copia di vendemmia.jpg",
+    image: "/images/Grapes/Copia di vendemmia(1).jpg",
     caption: "Hand-harvesting preserves quality for Traditional Method Prosecco production",
     alt: "Traditional hand-picking of grapes for Valdo Cuvée",
     link: "https://us.valdo.com/pages/awards"
@@ -39,7 +39,7 @@ const valdoDifferenceData = [
   {
     title: "COMMITMENT TO QUALITY",
     description: "Excellence in every bottle",
-    image: "/images/Grapes/_R5A4459.jpg",
+    image: "/images/Grapes/_R5A4459 2.jpg",
     caption: "Only the finest grapes are selected for Valdo's award-winning Prosecco",
     alt: "Perfect Glera grape clusters ready for harvest",
     link: "https://us.valdo.com/blogs/perlage-magazine/how-prosecco-is-made"
@@ -47,7 +47,7 @@ const valdoDifferenceData = [
   {
     title: "LAND STEWARDSHIP",
     description: "For future generations",
-    image: "/images/Vineyards/unnamed.jpg",
+    image: "/images/Vineyards/Copia di Copia di dettaglio vigneti.jpg",
     caption: "UNESCO World Heritage vineyards preserved for future generations",
     alt: "Aerial view of Valdo's terraced vineyards in Valdobbiadene",
     link: "https://us.valdo.com/pages/our-winery"
