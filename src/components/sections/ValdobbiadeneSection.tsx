@@ -44,7 +44,7 @@ const ValdobbiadeneSection: React.FC = () => {
           >
             <div className="rounded-lg overflow-hidden shadow-lg">
               <Image
-                src="/images/Vineyards/Copia di Copia di vigneti.jpg"
+                src="/images/Vineyards/Copia di Copia di drone_territorio_valdobbiadene.jpg"
                 alt="Valdobbiadene Vineyards"
                 width={600}
                 height={400}
