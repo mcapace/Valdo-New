@@ -56,20 +56,22 @@ const HeroSection = () => {
                   className="w-auto h-64 lg:h-80 mx-auto lg:mx-0"
                 />
               </motion.div>
-              <motion.p 
-                className="hero-subtitle text-5xl lg:text-6xl font-light text-center lg:text-left"
+              <motion.div 
+                className="hero-subtitle text-center lg:text-left"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 1.2 }}
               >
-                The Gold Standard
+                <div className="text-5xl lg:text-6xl font-light mb-2">
+                  The Gold Standard
                 </div>
-                <div class="text-4xl lg:text-5xl font-light mb-2">
+                <div className="text-4xl lg:text-5xl font-light mb-2">
                   of
                 </div>
-                <div class="text-5xl lg:text-6xl font-light">
+                <div className="text-5xl lg:text-6xl font-light">
                   Prosecco
-              </motion.p>
+                </div>
+              </motion.div>
             </motion.div>
 
             {/* Right side - Large bottle */}
