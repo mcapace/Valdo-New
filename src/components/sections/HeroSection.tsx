@@ -53,7 +53,7 @@ const HeroSection = () => {
                   alt="Valdo Logo"
                   width={1000}
                   height={500}
-                  className="w-auto h-[36rem] lg:h-[44rem] mx-auto lg:mx-0"
+                  className="w-auto h-48 lg:h-64 mx-auto lg:mx-0"
                 />
               </motion.div>
               <motion.div 
@@ -63,13 +63,13 @@ const HeroSection = () => {
                 transition={{ delay: 1.2 }}
               >
                 <div className="text-5xl lg:text-6xl font-light mb-2">
-                  The Gold Standard
+                  THE GOLD STANDARD
                 </div>
                 <div className="text-4xl lg:text-5xl font-light mb-2">
-                  of
+                  OF
                 </div>
                 <div className="text-5xl lg:text-6xl font-light">
-                  Prosecco
+                  PROSECCO
                 </div>
               </motion.div>
             </motion.div>
@@ -89,8 +89,8 @@ const HeroSection = () => {
                 whileHover={{ scale: 1.05, rotateY: 5 }}
               >
                 <Image
-                  src="/images/Bottle Shots/Marca Oro Prosecco DOC Brut USA.png"
-                  alt="Valdo Marca Oro Prosecco DOC Brut"
+                  src="/images/Bottle Shots/Marca Oro PROSECCO DOC Brut USA.png"
+                  alt="Valdo Marca Oro PROSECCO DOC Brut"
                   width={500}
                   height={1200}
                   className="w-auto h-[500px] lg:h-[600px] drop-shadow-2xl"
