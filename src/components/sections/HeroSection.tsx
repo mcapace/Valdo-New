@@ -53,7 +53,7 @@ const HeroSection = () => {
                   alt="Valdo Logo"
                   width={1000}
                   height={500}
-                  className="w-auto h-64 lg:h-80 mx-auto lg:mx-0"
+                  className="w-auto h-[36rem] lg:h-[44rem] mx-auto lg:mx-0"
                 />
               </motion.div>
               <motion.div 
