@@ -26,7 +26,7 @@ const ValdobbiadeneSection: React.FC = () => {
         {/* Content Section */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h3 className="text-headline font-semibold text-black">WHY VALDOBBIADENE?</h3>
+            <h3 className="text-4xl lg:text-5xl font-bold text-black">WHY VALDOBBIADENE?</h3>
             <p className="text-body text-black leading-relaxed font-medium">
               Valdobbiadene is the heart and soul of exceptional Prosecco production. This extraordinary region in the Veneto province of Italy has been recognized as a UNESCO World Heritage Site for its centuries-old tradition of viticulture and the unique landscape shaped by generations of winemakers.
             </p>
@@ -56,7 +56,7 @@ const ValdobbiadeneSection: React.FC = () => {
 
         {/* Bottom Section */}
         <div className="text-center mt-12">
-          <h3 className="text-headline font-semibold text-black mb-6">VALDOBBIADENE PROSECCO SUPERIORE DOCG</h3>
+          <h3 className="text-4xl lg:text-5xl font-bold text-black mb-6">VALDOBBIADENE PROSECCO SUPERIORE DOCG</h3>
           <p className="text-body text-black leading-relaxed max-w-3xl mx-auto mb-8 font-medium">
             The prestigious DOCG (Denominazione di Origine Controllata e Garantita) represents Italy's highest quality classification for wines. Only wines produced in the most prestigious vineyards of Valdobbiadene can bear this designation. Valdo wines proudly bear the quality seals of Prosecco Superiore DOCG and Prosecco DOC— delivering a wine that is guaranteed to be more refined, more complex.
           </p>
